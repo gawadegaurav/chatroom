@@ -1,0 +1,7 @@
+com\chatapp\model\Message.class
+com\mycompany\chatroom\JakartaRestConfiguration.class
+com\mycompany\chatroom\resources\JakartaEE8Resource.class
+com\chatapp\util\HibernateUtil.class
+model\DataCon.class
+com\chatapp\model\User.class
+com\chatapp\model\Room.class
